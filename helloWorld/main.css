@@ -11,3 +11,7 @@ p {
     font-family: verdana;
     font-size: 20px;
 }
+
+.redDiv{ 
+border: 1px solid red;
+}
